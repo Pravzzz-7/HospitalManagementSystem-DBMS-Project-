@@ -22,10 +22,10 @@
 
 #### Some Screenshots for the project:
 <img width="941" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/images/doc.jpg">
-<img width="954" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/bg1.jpg">
-<img width="930" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/bg3.jpg">
+<img width="954" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/d3.jpg">
+<img width="930" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/bg1.jpg">
 <img width="934" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/bg2.jpg">
-<img width="946" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/bg1.jpg">
+<img width="946" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/sld1.jpg">
 
 
 
