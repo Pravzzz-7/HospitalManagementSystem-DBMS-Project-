@@ -1,21 +1,16 @@
 # <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> Hospital Management System.... </a> 
 - A DBMS Project
 
-These are the various jobs that need to be done in a hospital by the operational staff and Doctors. All these works are done on papers.
 ![image](https://github.com/Pravzzz-7/HospitalManagementSystem-DBMS-Project-/assets/122954486/b15c8f5d-bced-481a-9778-d837d1d28cb4)
 
 <hr>
 
 ### About
- 
-The software has the facility to give a unique id for every patient and stores the details of every patient and the staff automatically.
 ![image](https://github.com/Pravzzz-7/HospitalManagementSystem-DBMS-Project-/assets/122954486/d8bb0d35-19ba-4c42-b62f-d18c3b975c70)
 
 
 
 ### Technologies used:-
-HARDWARE AND SOFTWARE REQUIREMENTS
-
 
 ![image](https://github.com/Pravzzz-7/HospitalManagementSystem-DBMS-Project-/assets/122954486/6b08181f-57ca-4ab8-a549-024b78e420bb)
 
