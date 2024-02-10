@@ -28,7 +28,11 @@
 <img width="946" alt="image" src="Hospital-Management-System-dbmsminiproject-main/Hospital-Management-System-dbmsminiproject-main/hospital system/PROJECT/static/sld1.jpg">
 
 
+#### "Suggestions and project improvement ideas are welcomed!"
 
+#### "PROJECT BY: L PRAVEENA <3"
+
+<bold>Thanks a lot</bold><br/>
 
 
 
